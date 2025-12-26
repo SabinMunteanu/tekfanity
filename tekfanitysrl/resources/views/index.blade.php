@@ -11,12 +11,12 @@
     <!-- Header -->
     <header class="header">
         <div class="header-container">
-            <a href="/" class="logo">Tek<span>Fanity</span> SRL</a>
+            <a href="/index" class="logo">Tek<span>Fanity</span> SRL</a>
             <button class="menu-toggle" aria-label="Toggle menu">☰</button>
             <nav class="nav">
                 <a href="/index">Acasă</a>
-                <a href="/about">Despre Noi</a>
-                <a href="/services">Servicii</a>
+                <a href="/info">Despre Noi</a>
+                <a href="/servicii">Servicii</a>
                 <a href="/contact">Contact</a>
             </nav>
         </div>
